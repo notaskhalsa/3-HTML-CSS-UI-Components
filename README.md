@@ -25,4 +25,6 @@ Here we have designed some Blog Cards, a Login Page, and an ad Manager!
 
 > Note that this one is not very responsive and still under work.
 
+<br>
+
 <img src="./images/ad_manager.png">
