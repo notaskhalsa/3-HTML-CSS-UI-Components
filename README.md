@@ -27,4 +27,4 @@ Here we have designed some Blog Cards, a Login Page, and an ad Manager!
 
 <br>
 
-<img src="./images/ad_manager.png">
+<img src="./images/ad1.png">
